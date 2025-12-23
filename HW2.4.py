@@ -5,4 +5,4 @@ def fibonachi(n) :
         return fibonachi(n - 1) + fibonachi(n - 2)
 
 
-print(fibonachi(2))        
+print(fibonachi(8))        
